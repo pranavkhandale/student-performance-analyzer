@@ -1,4 +1,4 @@
-# Student Marks Analyzer
+# Student Performance Analyzer
 
 A Python application using NumPy to analyze student marks and generate class statistics.
 
